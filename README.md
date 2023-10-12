@@ -130,7 +130,7 @@ now change the url, user and password based on your Mysql Server configuration
     ![Logo](https://iili.io/J3eEFlS.md.png)
 
 - Run the Server With the Deployed Project :
-  when you run the aaplication you will see in the terminal that the server is runnig and the Hibernates created the database with the Tables from Entities after that the web page with show up in the browser :
+  when you run the aaplication you will see in the terminal that the server is runnig and the Hibernates created the database with the Tables from Entities after that the web page will show up in the browser :
   ![Logo](https://iili.io/J3egKAb.md.png)
 
 Web Page  :
