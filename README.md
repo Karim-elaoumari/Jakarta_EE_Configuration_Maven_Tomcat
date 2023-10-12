@@ -23,6 +23,7 @@ The "Jakarta EE Starter Configuration Project" provides a pre-configured environ
 ## Tools to use this Project 🛠️
 
 - Intellig Editor : you can download it form here https://www.jetbrains.com/idea/
+- Java JDK : You can use any java JDK but it's prefered to use the version (11.0.19) to avoid any problems : https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
 
 - Maven(Optional): a powerful dependency manager, is readily available within IntelliJ IDEA. However, if you prefer using it independently of IntelliJ, you can download and configure it for use in the command-line interface, where you can run commands of mvn. Additionally, you can create Jakarta EE projects only using Maven. https://phoenixnap.com/kb/install-maven-windows
 
@@ -30,18 +31,6 @@ The "Jakarta EE Starter Configuration Project" provides a pre-configured environ
 - MySql Server: MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and storing structured data. It's a popular choice for web applications and other software systems. To download and install MySQL Server on a Windows system https://dev.mysql.com/downloads/installer/
 
 
-
-
-
-
-## Tools to use this Project 🛠️
-
-- Intellig Editor : you can download it form here https://www.jetbrains.com/idea/
-
-- Maven(Optional): a powerful dependency manager, is readily available within IntelliJ IDEA. However, if you prefer using it independently of IntelliJ, you can download and configure it for use in the command-line interface, where you can run commands of mvn. Additionally, you can create Jakarta EE projects only using Maven. https://phoenixnap.com/kb/install-maven-windows
-
-- Tomcat : Tomcat serves as a servlet container, which means it provides an environment for running Java Servlets and JavaServer Pages (JSP). Servlets are Java programs that handle HTTP requests, making them an essential component of Java web applications.  ( you will need to download the Apache Tomcat: https://phoenixnap.com/kb/install-tomcat-windows)
-- MySql Server: MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and storing structured data. It's a popular choice for web applications and other software systems. To download and install MySQL Server on a Windows system https://dev.mysql.com/downloads/installer/
 
 
 
@@ -148,7 +137,7 @@ Web Page  :
 
 ![Logo](https://iili.io/J3eg1fI.md.png)
 
-## 🥳 Congratulations You Have Set You Configuration Of Jakarta EE 🥳
+## 🥳 Congratulation You Have Set You Configuration Of Jakarta EE 🥳
 
 ### So you can start working on your project and learning more concepts related to Jakarta EE
 
