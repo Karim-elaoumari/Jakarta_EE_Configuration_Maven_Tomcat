@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  tomcat:
+    image: tomcat:latest
+    container_name: tomcat_app
+    ports:
+      - "8888:8080"
+    volumes:
+      - ./target/ana-1.0-SNAPSHOT:/usr/local/tomcat/webapps/java_config
+
+  mysql:
+    image: mysql:latest
+    container_name: mysql_db
+    environment:
+      MYSQL_DATABASE: java_config
+      MYSQL_USER: root
+      MYSQL_ROOT_PASSWORD:
